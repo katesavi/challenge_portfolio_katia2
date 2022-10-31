@@ -8,6 +8,8 @@ I also learned a lot about testing from  Utest Academy.
 Getting new experience with automation tools/wrameworks can help me in finding a job as a manual/automation tester in the future. 
 I have also goals in the near future:
  - to improve my knowledge of HTML, CSS and SQL 
- - to improve English, because I love it 🙃
-*The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.*
-*Brian Herbert*
+ - to learn new things because I love it 🙃
+
+
+####*"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."*####
+####*Brian Herbert*####
