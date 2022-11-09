@@ -14,7 +14,8 @@ My goals in the near future are: to improve my knowledge of HTML, CSS, SQL and g
 
 # Task 2: selectors #
 
-### Subtask 1: The list of 3 working selectors for login button: ###
+### Subtask 1: The list of 3 working selectors: ###
+#### Selectors for login button: ####
 
 <ol> 
 <li> //*[@id="login"] </li> 
@@ -22,7 +23,7 @@ My goals in the near future are: to improve my knowledge of HTML, CSS, SQL and g
 <li> //*[contains(@name, "login")] </li> 
 </ol>
 
-### Selectors for text 'Login' (not button): ###
+#### Selectors for Login text: ####
 <ol> 
 <li> //*[text()="Login"] </li> 
 <li> //label[@id="login-label"] </li> 
