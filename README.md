@@ -10,3 +10,22 @@ My goals in the near future are: to improve my knowledge of HTML, CSS, SQL and g
 
 #### *"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."* ####
 #### *Brian Herbert* ####
+
+
+# Task 2: selectors #
+
+## Subtask 1: The list of 3 working selectors for login button: ##
+
+<ul> 
+//*[@id="login"]
+//input[@id="login"]
+//*[contains(@name, "login")]
+</ul>
+
+# Selector for text 'Login' (not button) #
+<ul> 
+//*[text()="Login"]
+//label[@id="login-label"]
+//*[contains(@id, "login-label")]
+
+</ul>
