@@ -22,7 +22,7 @@ My goals in the near future are: to improve my knowledge of HTML, CSS, SQL and g
 <li> //*[contains(@name, "login")] </li> 
 </ol>
 
-### Selector for text 'Login' (not button) ###
+### Selectors for text 'Login' (not button): ###
 <ol> 
 <li> //*[text()="Login"] </li> 
 <li> //label[@id="login-label"] </li> 
