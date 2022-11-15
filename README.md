@@ -3,8 +3,8 @@
 
 Hello, my name is **Katia**. 
 I decided to participate in this project because it is a great opportunity to learn new things about testing and adapt old ones.
-I love challenges, that's why I constantly seek out new knowledge. I possess the basics of software testing and got ISTQB Foundation Certificate. 
-Unfortunatelly I did not get a new job yet. Getting new experience with automation tools/frameworks can help me in finding a job as a manual/automation tester in the future. I am very grateful for such opportunity.
+I love challenges. I possess the basics of software testing and got ISTQB Foundation Certificate. 
+Getting new experience with automation tools/frameworks can help me in finding a  new job as a manual/automation tester in the future. I am very grateful for such opportunity.
 My goals in the near future are: to improve my knowledge of HTML, CSS, SQL and generally to learn new things because I love it 🙃
 
 
@@ -28,5 +28,22 @@ My goals in the near future are: to improve my knowledge of HTML, CSS, SQL and g
 <li> //*[text()="Login"] </li> 
 <li> //label[@id="login-label"] </li> 
 <li> //*[contains(@id, "login-label")] </li> 
-
 </ol>
+  
+#### Selectors for scouts panel: ####
+  
+<ol> 
+<li> //*[text()="Scouts Panel"] </li> 
+<li> //h6[contains(@class, "MuiTypography-noWrap")] </li> 
+<li> //*[@id="__next"]/div[1]/header/div/h6 </li> 
+</ol>
+
+#### Selectors for password: ####
+
+<ol> 
+<li> //*[text()="Password"] </li> 
+<li> //*[@id="__next"]/form/div/div[1]/div[2]/div </li> 
+<li> //label[@id="password-label"] </li> 
+</ol>
+
+  
